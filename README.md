@@ -102,6 +102,14 @@ fg = FileGroup("file1.txt","file2.txt","file3.txt")
 
 `filter_by_size()` - Filter files by size (min and max or equal)
 
+- Install
+
+[PYPI](https://pypi.org/project/magicfiles/)
+
+```python
+pip install magicfiles
+```
+
 - Example
 
 ```python
