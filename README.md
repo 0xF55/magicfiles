@@ -104,7 +104,7 @@ fg = FileGroup("file1.txt","file2.txt","file3.txt")
 
 - Install
 
-[PYPI](https://pypi.org/project/magicfiles/)
+[![PyPI Downloads](https://static.pepy.tech/badge/magicfiles)](https://pepy.tech/projects/magicfiles)
 
 ```python
 pip install magicfiles
